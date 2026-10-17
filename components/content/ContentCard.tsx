@@ -1,6 +1,7 @@
 import Image from "@/components/ui/SiteImage";
 import Link from "next/link";
 import type { ContentMeta } from "@/lib/markdown";
+import { formatArticleDate } from "@/lib/content-presentation.mjs";
 
 type ContentCardProps = ContentMeta & {
   compact?: boolean;
@@ -13,7 +14,6 @@ export default function ContentCard({
   image,
   slug,
   date,
-  dateLabel,
   category,
   excerpt,
   compact = false,
@@ -38,8 +38,8 @@ export default function ContentCard({
         </div>
         <div className="min-w-0 pr-2">
           <div className="mb-2 flex min-w-0 flex-wrap items-center gap-x-3 gap-y-1 text-[11px] font-black uppercase tracking-[0.18em] text-slate-400">
-            <time dateTime={date || undefined}>{date || dateLabel}</time>
-            {showCategory && collection === "project" && <span>{category}</span>}
+            <time dateTime={/^\d{4}-\d{2}-\d{2}$/.test(date) ? date : undefined}>{formatArticleDate(date)}</time>
+            {showCategory && <span className="normal-case">{category}</span>}
           </div>
           <h3 className="line-clamp-2 break-words text-base font-black leading-snug text-[var(--brand-ink)] group-hover:text-[var(--brand-blue)]">
             {title}
@@ -65,8 +65,8 @@ export default function ContentCard({
       </div>
       <div className="min-w-0 px-5 py-5 md:px-6">
         <div className="mb-3 flex min-w-0 flex-wrap items-center gap-x-3 gap-y-1 text-[11px] font-black uppercase tracking-[0.18em] text-slate-400">
-          <time dateTime={date || undefined}>{date || dateLabel}</time>
-          {showCategory && collection === "project" && <span>{category}</span>}
+          <time dateTime={/^\d{4}-\d{2}-\d{2}$/.test(date) ? date : undefined}>{formatArticleDate(date)}</time>
+          {showCategory && <span className="normal-case">{category}</span>}
         </div>
         <h3 className="break-words text-2xl font-black leading-tight text-[var(--brand-ink)] group-hover:text-[var(--brand-blue)]">
           {title}

@@ -8,6 +8,8 @@ import { getBlogFeed, type ContentPost } from "@/lib/markdown";
 import ContentCard from "@/components/content/ContentCard";
 import YouTubeEmbed from "@/components/ui/YouTubeEmbed";
 import { getYouTubeVideoIds } from "@/lib/youtube";
+import { formatArticleDate, rehypeArticleGallery } from "@/lib/content-presentation.mjs";
+import ArticleMedia from "@/components/content/ArticleMedia";
 
 type ContentArticleProps = { post: ContentPost };
 
@@ -30,13 +32,15 @@ export default function ContentArticle({ post }: ContentArticleProps) {
         <div className="grid items-start gap-12 xl:grid-cols-[minmax(0,1fr)_280px] xl:gap-10">
           <article className="min-w-0">
             <header className="mb-8 border-b border-slate-200 pb-7">
-              {(post.date || post.dateLabel) && (
-                <time dateTime={post.date || undefined} className="text-sm font-bold text-slate-500">{post.date || post.dateLabel}</time>
+              {post.date && (
+                <time dateTime={/^\d{4}-\d{2}-\d{2}$/.test(post.date) ? post.date : undefined} className="text-sm font-bold text-slate-500">{formatArticleDate(post.date)}</time>
               )}
+              <span className="ml-4 text-xs font-bold text-[var(--brand-blue)]">{post.category}</span>
               <h1 className="mt-3 break-words text-2xl font-black leading-relaxed tracking-tight sm:text-3xl lg:text-4xl lg:leading-snug">{post.title}</h1>
             </header>
+            <ArticleMedia>
             <div className="mb-10 bg-slate-50">
-              <Image src={post.image} alt={post.title} width={1200} height={675} priority sizes="(min-width: 1280px) 870px, (min-width: 1024px) calc(100vw - 152px), 100vw" className="mx-auto h-auto max-h-[560px] w-full object-contain" />
+              <Image src={post.image} alt={post.title} role="button" tabIndex={0} aria-label="カバー画像を拡大" width={1200} height={675} priority sizes="(min-width: 1280px) 870px, (min-width: 1024px) calc(100vw - 152px), 100vw" className="mx-auto h-auto max-h-[560px] w-full cursor-zoom-in object-contain" />
             </div>
             {videoIds.length > 0 && (
               <section aria-label="記事の関連動画" className="mb-10 space-y-6 [&>div]:mt-0">
@@ -46,10 +50,11 @@ export default function ContentArticle({ post }: ContentArticleProps) {
               </section>
             )}
             <div className="article-body prose prose-blue max-w-none text-base leading-[1.95] prose-headings:tracking-tight prose-a:text-[var(--brand-blue)] prose-pre:bg-slate-950">
-              <ReactMarkdown rehypePlugins={[rehypeRaw]} remarkPlugins={[remarkGfm]} urlTransform={(url) => withBasePath(defaultUrlTransform(url))}>
+              <ReactMarkdown rehypePlugins={[rehypeRaw, rehypeArticleGallery]} remarkPlugins={[remarkGfm]} urlTransform={(url) => withBasePath(defaultUrlTransform(url))}>
                 {post.content}
               </ReactMarkdown>
             </div>
+            </ArticleMedia>
             <div className="mt-10 flex flex-wrap items-center justify-between gap-4 border-t border-slate-200 py-6 text-sm">
               <span className="text-slate-500">投稿者：{post.author}</span>
               <Link href="/blog" className="font-bold text-[var(--brand-blue)]">ブログ一覧へ →</Link>

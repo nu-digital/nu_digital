@@ -2,9 +2,8 @@
 title: "CEDEC 2026 スカラーシップ参加"
 image: "/images/imported/img-3f06d04c2ca3918778cb.webp"
 author: "yurarara"
-date: ""
-dateLabel: "2026年7月22日〜24日"
-category: "メンバーの活動・作品"
+date: "2026年7月22日〜24日"
+category: "Blog"
 excerpt: "IGDA日本のスカラーシップ生としてCEDEC 2026に参加しました。"
 sourceId: "blog/cedec-2026-scholarship"
 ---

@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       NEXT_PUBLIC_BASE_PATH: /nu_digital
-      NEXT_PUBLIC_SITE_URL: https://yurarara23.github.io/nu_digital
+      NEXT_PUBLIC_SITE_URL: https://nu-digital.github.io/nu_digital
       NEXT_TELEMETRY_DISABLED: 1
     steps:
       - uses: actions/checkout@v4

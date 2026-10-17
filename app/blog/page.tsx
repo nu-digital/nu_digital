@@ -17,7 +17,7 @@ export default function BlogPage() {
 
       <div className="grid min-w-0 gap-x-8 gap-y-10 md:grid-cols-2">
         {latestPosts.map((post) => (
-          <ContentCard key={`${post.collection}/${post.slug}`} {...post} showCategory={false} />
+          <ContentCard key={`${post.collection}/${post.slug}`} {...post} />
         ))}
       </div>
     </main>

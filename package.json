@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "editor": "node tools/content-editor/server.mjs",
+    "test:editor": "node --test tools/content-editor/server.test.mjs"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.16",

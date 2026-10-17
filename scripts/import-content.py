@@ -63,9 +63,8 @@ for record in records:
     meta = {
         'title': record['title'], 'image': image,
         'author': record.get('websiteAuthor') or ('yurarara' if any(s['source'] == 'portfolio' for s in record['sources']) else 'nu_digital'),
-        'date': record.get('publishedAt') or record.get('date') or '',
-        'dateLabel': record.get('dateLabel') or '',
-        'category': 'メンバーの活動・作品' if record['scope'] == 'member' else ('制作コンテンツ' if record['section'] == 'works' else '団体の活動'),
+        'date': record.get('publishedAt') or record.get('date') or record.get('dateLabel') or '',
+        'category': 'Product' if record['section'] == 'works' else 'Blog',
         'excerpt': record['summary'], 'sourceId': record['id'],
     }
     target = ROOT / 'content' / (routes[record['id']].strip('/') + '.md')

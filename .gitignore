@@ -54,3 +54,6 @@ __pycache__/
 
 # Local incoming image sources
 /import/
+
+# Local article editor backups
+/.content-editor/

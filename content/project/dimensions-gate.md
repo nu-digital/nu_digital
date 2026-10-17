@@ -2,9 +2,8 @@
 title: "DimensionsGate"
 image: "/images/imported/img-f9fae08065a2007d1b92.webp"
 author: "yurarara"
-date: ""
-dateLabel: "2025年9月〜11月"
-category: "制作コンテンツ"
+date: "2025年9月〜11月"
+category: "Product"
 excerpt: "重力方向が変化する空間を探索し、バグを探して破壊するVRChatゲームです。"
 sourceId: "works/dimensions-gate"
 ---

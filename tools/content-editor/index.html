@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ja">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>nu_digital_localEditor</title><link rel="stylesheet" href="/style.css"></head>
+<body>
+  <header class="topbar"><strong>nu_digital<span>_localEditor</span></strong></header>
+  <div class="workspace">
+    <aside class="sidebar"><div class="filters"><h1>記事 <span id="count"></span></h1><input id="search" type="search" placeholder="検索" aria-label="記事検索"><div class="filter-row"><select id="collection" aria-label="カテゴリで絞り込み"><option value="">すべて</option><option value="Blog">Blog</option><option value="Product">Product</option></select></div></div><nav id="articles" aria-label="記事一覧"></nav></aside>
+    <main><div id="empty"><h2>記事を選んで、内容を確認。</h2><p>左の一覧から開くと、本文・画像を見ながら編集できます。</p></div>
+      <section id="editor" hidden>
+        <div class="toolbar"><div><div id="file-path"></div><span id="save-state">保存済み</span></div><div class="actions"><button id="reload">再読込</button><button id="save" class="primary" disabled>保存 <kbd>Ctrl S</kbd></button></div></div>
+        <div id="message" role="status" aria-live="polite"></div>
+        <details class="metadata" open><summary>基本情報</summary><div class="fields">
+          <label class="wide">タイトル<input data-field="title"></label>
+          <label>日付<input data-field="date" placeholder="2026.10.17" title="日付・月・期間を入力できます"></label>
+          <label>投稿者<input data-field="author"></label><label>カテゴリ<select data-field="category"><option>Blog</option><option>Product</option></select></label>
+          <label class="wide">概要<textarea data-field="excerpt" rows="2"></textarea></label>
+          <label class="wide">カバー画像<div class="input-action"><input data-field="image" placeholder="/images/... または https://..."><button id="cover-picker">画像を選ぶ</button></div></label>
+        </div></details>
+        <div class="body-toolbar"><div class="tabs"><button id="edit-tab" aria-pressed="true">編集</button><button id="diff-tab" aria-pressed="false">変更内容</button></div><button id="insert-image">本文に画像を挿入</button></div>
+        <div id="edit-view" class="split"><section><div class="pane-title">本文</div><textarea id="body" aria-label="記事本文" spellcheck="false"></textarea></section><section><div class="pane-title">プレビュー</div><iframe id="preview" title="記事プレビュー" sandbox="" referrerpolicy="no-referrer"></iframe></section></div>
+        <div id="diff-view" class="split" hidden><section><div class="pane-title">保存済みの内容</div><pre id="before"></pre></section><section><div class="pane-title">編集後の内容</div><pre id="after"></pre></section></div>
+        
+      </section>
+    </main>
+  </div>
+  <dialog id="images-dialog"><div class="dialog-head"><div><h2>画像ライブラリ</h2></div><button id="close-images">閉じる</button></div><input id="image-search" type="search" placeholder="画像のフォルダー・ファイル名を検索" aria-label="画像検索"><div id="images"></div><p id="image-count"></p></dialog>
+  <script type="module" src="/app.js"></script>
+</body></html>

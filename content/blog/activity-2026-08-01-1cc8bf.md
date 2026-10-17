@@ -2,9 +2,8 @@
 title: "オープンキャンパス船橋"
 image: "/images/imported/img-2f35af9443eb26053bf2.webp"
 author: "yurarara"
-date: ""
-dateLabel: "2026年8月1〜2日"
-category: "団体の活動"
+date: "2026年8月1〜2日"
+category: "Blog"
 excerpt: "船橋のオープンキャンパスで、2日間にわたって制作物を展示しました。"
 sourceId: "blog/activity-2026-08-01-1cc8bf"
 ---

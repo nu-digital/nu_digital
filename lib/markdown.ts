@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
+import { articleCategory, articleDateOrder } from "./content-presentation.mjs";
 
 export type ContentCollection = "blog" | "news" | "project";
 
@@ -17,7 +18,6 @@ export type ContentMeta = {
   image: string;
   author: string;
   date: string;
-  dateLabel: string;
   category: string;
   excerpt: string;
 };
@@ -59,8 +59,7 @@ function normalizeContent(
     image: String(data.image ?? "/images/ogp/member.webp"),
     author: String(data.author ?? "nu_digital"),
     date: String(data.date ?? ""),
-    dateLabel: String(data.dateLabel ?? data.date ?? ""),
-    category: String(data.category ?? (collection === "news" ? "News" : "Blog")),
+    category: articleCategory(collection, String(data.category ?? "")),
     excerpt: String(data.excerpt ?? fallbackExcerpt),
     content,
   };
@@ -88,12 +87,11 @@ export function getAllContent(collection: ContentCollection): ContentMeta[] {
         image: post.image,
         author: post.author,
         date: post.date,
-        dateLabel: post.dateLabel,
         category: post.category,
         excerpt: post.excerpt,
       };
     })
-    .sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
+    .sort((a, b) => articleDateOrder(b.date) - articleDateOrder(a.date));
 }
 
 export function getLatestContent(collection: ContentCollection, limit: number) {
@@ -124,9 +122,7 @@ export const getAllPostSlugs = () => getAllContentSlugs("blog");
 
 // Period-only records use their stated starting month/day for ordering only.
 function chronology(post: ContentMeta) {
-  if (post.date) return Date.parse(post.date) || 0;
-  const match = post.dateLabel.match(/(\d{4})年(\d{1,2})月(?:(\d{1,2})日)?/);
-  return match ? Date.UTC(Number(match[1]), Number(match[2]) - 1, Number(match[3] ?? 1)) : 0;
+  return articleDateOrder(post.date);
 }
 
 export function getBlogFeed(limit?: number): ContentMeta[] {

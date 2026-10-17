@@ -2,9 +2,8 @@
 title: "プロトタイプワールド制作（2025）"
 image: "/images/imported/img-37c2d2cc91ca5dd417b0.webp"
 author: "yurarara"
-date: ""
-dateLabel: "2025年3月〜 6月"
-category: "メンバーの活動・作品"
+date: "2025年3月〜 6月"
+category: "Product"
 excerpt: "2025年3月から6月にかけて、VRChatワールドを作りながらUnityとUdonSharpを学びました。"
 sourceId: "works/vrc-prototypes-2025"
 ---

@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "nu_digital",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://yurarara23.github.io/nu_digital",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://nu-digital.github.io/nu_digital",
   description:
     "nu_digitalは、ゲーム制作、VRChatワールド、3Dモデル、Webなどのデジタル創作に取り組むプロジェクト団体です。",
   ogImage: "/images/ogp/member.webp",
@@ -16,7 +16,7 @@ export const navItems = [
 export const socialLinks = [
   {
     label: "GitHub",
-    href: "https://github.com/yurarara23/nu.meta",
+    href: "https://github.com/nu-digital/nu_digital",
     type: "github",
   },
   {

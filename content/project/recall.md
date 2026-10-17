@@ -2,9 +2,8 @@
 title: "ReCall"
 image: "/images/imported/img-a537e2d36d5524465939.webp"
 author: "yurarara"
-date: ""
-dateLabel: "2026年8月〜9月"
-category: "制作コンテンツ"
+date: "2026年8月〜9月"
+category: "Product"
 excerpt: "記憶と連想から生まれる世界を巡る、物語と空間演出を重視したVR作品です。IVRC 2026メタバース部門で「岸上健人賞」を受賞し、富山のVR学会で展示しました。"
 sourceId: "works/recall"
 ---
