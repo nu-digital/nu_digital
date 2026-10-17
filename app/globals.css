@@ -1,0 +1,183 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+:root {
+  --brand-blue: #004aad;
+  --brand-white: #ffffff;
+  --brand-ink: #071b3f;
+  --brand-pale: #f7f8fb;
+  --brand-line: #d9e2f4;
+  --background: var(--brand-pale);
+  --foreground: var(--brand-ink);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background: var(--background);
+  color: var(--foreground);
+  font-family:
+    Inter, "Noto Sans JP", "Hiragino Sans", "Yu Gothic", Arial, Helvetica,
+    sans-serif;
+}
+
+.site-main {
+  min-height: 100vh;
+}
+
+@media (min-width: 1024px) {
+  .site-main {
+    padding-left: 104px;
+  }
+}
+
+::selection {
+  background: var(--brand-blue);
+  color: var(--brand-white);
+}
+
+@layer utilities {
+  .hidden-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .hidden-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .section-shell {
+    width: min(1160px, calc(100% - 2rem));
+    margin-inline: auto;
+  }
+
+  .editorial-title {
+    font-size: clamp(2.5rem, 7vw, 7rem);
+    line-height: 0.88;
+    letter-spacing: 0;
+  }
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(0, 74, 173, 0.08);
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  border: 2px solid transparent;
+  border-radius: 9999px;
+  background-color: var(--brand-blue);
+  background-clip: content-box;
+}
+
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: var(--brand-blue) transparent;
+}
+
+@utility prose {
+  color: var(--brand-ink);
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: var(--brand-ink);
+    font-weight: 900;
+    letter-spacing: 0;
+  }
+
+  a {
+    color: var(--brand-blue);
+    font-weight: 700;
+    text-decoration-color: rgba(0, 74, 173, 0.3);
+    transition: all 0.2s;
+  }
+
+  a:hover {
+    text-decoration-color: var(--brand-blue);
+  }
+
+  strong {
+    color: var(--brand-ink);
+    background: linear-gradient(transparent 78%, rgba(0, 74, 173, 0.18) 0);
+  }
+
+  blockquote {
+    padding-left: 1.5rem;
+    border-left-color: var(--brand-blue);
+    background-color: rgba(0, 74, 173, 0.06);
+    color: #334155;
+    font-style: italic;
+  }
+
+  hr {
+    border-color: var(--brand-line);
+  }
+
+  code {
+    padding: 0.2em 0.4em;
+    border-radius: 4px;
+    background-color: rgba(0, 74, 173, 0.08);
+    color: var(--brand-blue);
+  }
+
+  pre {
+    border: 1px solid var(--brand-line);
+    background-color: #071b3f;
+  }
+
+  th {
+    border-bottom-color: var(--brand-blue);
+    color: var(--brand-blue);
+  }
+
+  td {
+    border-bottom-color: var(--brand-line);
+  }
+}
+
+/* Article media stays within the reading column without cropping. */
+.article-body img {
+  display: block;
+  max-width: 100%;
+  max-height: 640px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  margin: 2rem auto;
+  border-radius: 0;
+}
+
+.article-body figure { margin: 2rem 0; }
+.article-body figure img { margin-block: 0; }
+.article-body figcaption {
+  margin-top: .75rem;
+  text-align: center;
+  font-size: .8125rem;
+  color: #64748b;
+}
+.article-body h2 {
+  margin-top: 2.5rem;
+  padding: .25rem 0 .25rem 1rem;
+  border-left: 4px solid var(--brand-blue);
+  font-size: 1.5rem;
+  line-height: 1.6;
+}
+.article-body iframe {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  margin: 2rem auto;
+}
+.article-body { overflow-wrap: anywhere; }
+.article-body pre { overflow-x: auto; }
