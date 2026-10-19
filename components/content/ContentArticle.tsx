@@ -65,6 +65,10 @@ export default function ContentArticle({ post }: ContentArticleProps) {
                     <div className="not-prose my-8">
                       <YouTubeEmbed videoId={featuredVideo.videoId} title={featuredVideo.title} />
                     </div>
+                  ) : typeof node?.properties?.dataYoutube === "string" && /^[\w-]{11}$/.test(node.properties.dataYoutube) ? (
+                    <div className="not-prose my-8">
+                      <YouTubeEmbed videoId={node.properties.dataYoutube} title={`${post.title} 紹介動画`} />
+                    </div>
                   ) : <div {...props}>{children}</div>,
                 }}>
                 {post.content}

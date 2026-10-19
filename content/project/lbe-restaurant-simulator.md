@@ -1,57 +1,52 @@
 ---
-title: "LBE Restaurant Simulator"
-image: "/images/imported/img-6a5153913b3027a25ebe.webp"
-author: "yurarara"
-date: "2026-08-08"
-category: "Product"
-excerpt: "現実の空間を歩きながら、複数人で料理を作って客へ運ぶレストランシミュレーターです。"
-sourceId: "works/lbe-restaurant-simulator"
+title: LBE Restaurant Simulator
+image: /images/imported/img-a92edf5d38cc6e7b2e87.webp
+author: yurarara
+date: '2026-08-08'
+category: Product
+excerpt: 現実の空間を歩きながら、複数人で調理・配膳・片付けに取り組むレストランシミュレーター。STYLY NetSyncを使った協力型VR体験のプロトタイプです。
+sourceId: works/lbe-restaurant-simulator
 ---
+現実の空間を歩きながら、仲間と協力してレストランを切り盛りする、PICO 4向けのVRコンテンツ「LBE Restaurant Simulator」を試作しました。
 
-## 概要
+同じ会場にいる複数の参加者が仮想の厨房を共有し、料理を作る、運ぶ、片付けるといった仕事に取り組む、LBE（ロケーションベース・エンターテインメント）体験のプロトタイプです。
 
-現実の空間を歩きながら、複数人で料理を作って客へ運ぶレストランシミュレーターです。
+## 歩いて、作って、運ぶ協力プレイ
 
-## 本文
+料理を作ったら、お皿を持ってお客さんのもとまで歩いて配膳。食事の後はお皿を洗うなど、レストランの仕事を自分の身体を動かして体験します。
 
-STYLY NetSyncを使い、仮想の厨房やオブジェクトを参加者同士で共有します。現実の移動を使って、慌ただしく協力すること自体を遊びにしました。
+参加者同士で役割を分担し、同じ空間を行き来しながら協力することが、この作品の遊びの中心です。調理や配膳といった身近な動作を取り入れることで、短い体験時間でもルールが伝わりやすく、周りで見ている人にも何をしているかが分かる内容を目指しました。
 
-2026年8月8日にTIBで発表・試遊展示し、子どもを含む来場者に体験していただきました。
+## 紹介動画
 
-## 制作の工夫・振り返り
+<div data-youtube="L9KDSrQPDpg"></div>
 
-短い時間でもルールが伝わるよう、料理を作って運ぶ直感的な遊びを選びました。
+## 使用技術
 
-仮想オブジェクトの位置同期と共同操作をSTYLY NetSyncで実装し、参加者が同じ場所で役割を分担できる体験を目指しました。
+- **Unity**：ゲーム本体とVR空間の制作。
+- **STYLY NetSync**：STYLY社が公開するOSS。Unity用パッケージとPython製サーバーを使い、物体の位置・回転やゲームの状態を端末間で共有。
+- **XR Interaction Toolkit（XRGrabInteractable）**：食材や道具を掴む操作。
 
-## 関連URL
+## 同じ厨房で協力するための工夫
 
-- X — 活動・展示レポート: https://x.com/yurara_2323/status/2086077591400919194?s=20
-- YouTube — 紹介動画: https://youtu.be/L9KDSrQPDpg
+制作では、物体の動きを共有することと、ゲームの結果を揃えることを分けて設計しました。
 
-## 写真（サイト掲載順）
+- 固定IDのオブジェクトプー*：食材・料理・皿をあらかじめ用意して再利用し、全端末で同じ物体を識別できるようにしました。調理や皿洗いも、プール内の物体の交換として扱っています。
+- 進行管理をOperatorClientに集約：プレイヤー端末からRPCで調理などを要求し、進行管理用クライアントが検証して結果を確定します。注文・スコア・残り時間も一元管理し、端末ごとの食い違いを防ぐ構成です。
 
-### LBEレストラン・プロトタイプの記録画像 1
+今後は複数のPICO 4で、物の受け渡しや同時操作、通信遅延の影響を検証していきます。実際に人が立ち、すれ違える厨房の配置も含めて、操作感と空間の両面を調整していく予定です。
 
-![LBEレストラン・プロトタイプの記録画像 1](/images/imported/img-6a5153913b3027a25ebe.webp)
+## TIBでの発表・試遊展示
 
-### LBEレストラン・プロトタイプの記録画像 2
+**2026年8月8日｜TIB**
 
-![LBEレストラン・プロトタイプの記録画像 2](/images/imported/img-e37ddca45b9f20ebbc20.webp)
+TIBで発表・試遊展示を行い、子どもを含む来場者の皆さんに体験していただきました。
 
-### LBEレストラン・プロトタイプの記録画像 3
+![LBEレストランシミュレーターの記録画像（1）](/images/imported/img-e37ddca45b9f20ebbc20.webp)
 
-![LBEレストラン・プロトタイプの記録画像 3](/images/imported/img-63e1faa88573600b5ba9.webp)
+![LBEレストランシミュレーターの記録画像（2）](/images/imported/img-929c1c51f1585d6f3029.webp)
 
-### LBEレストラン・プロトタイプの記録画像 4
+## 関連リンク
 
-![LBEレストラン・プロトタイプの記録画像 4](/images/imported/img-a92edf5d38cc6e7b2e87.webp)
-
-### LBEレストラン・プロトタイプの記録画像 5
-
-![LBEレストラン・プロトタイプの記録画像 5](/images/imported/img-929c1c51f1585d6f3029.webp)
-
-## 収集した関連URL
-
-- [X — 活動・展示レポート](https://x.com/yurara_2323/status/2086077591400919194?s=20)
-- [YouTube — 紹介動画](https://youtu.be/L9KDSrQPDpg)
+- [STYLY NetSync 公式リポジトリ](https://github.com/styly-dev/STYLY-NetSync)
+- [Xで活動・展示レポートを見る](https://x.com/yurara_2323/status/2086077591400919194?s=20)
