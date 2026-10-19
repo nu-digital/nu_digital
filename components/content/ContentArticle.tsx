@@ -10,11 +10,15 @@ import YouTubeEmbed from "@/components/ui/YouTubeEmbed";
 import { getYouTubeVideoIds } from "@/lib/youtube";
 import { formatArticleDate, rehypeArticleGallery } from "@/lib/content-presentation.mjs";
 import ArticleMedia from "@/components/content/ArticleMedia";
+import ImageCarousel from "@/components/ui/ImageCarousel";
+import { featuredVideo, overviewSlides } from "@/data/site";
 
 type ContentArticleProps = { post: ContentPost };
 
 export default function ContentArticle({ post }: ContentArticleProps) {
-  const videoIds = getYouTubeVideoIds(post.content);
+  const hasFeaturedVideo = /<div\s+data-video="featured"\s*>\s*<\/div>/.test(post.content);
+  const videoIds = getYouTubeVideoIds(post.content)
+    .filter((id) => !hasFeaturedVideo || id !== featuredVideo.videoId);
   const latestPosts = getBlogFeed()
     .filter((item) => item.collection !== post.collection || item.slug !== post.slug)
     .slice(0, 5);
@@ -50,7 +54,19 @@ export default function ContentArticle({ post }: ContentArticleProps) {
               </section>
             )}
             <div className="article-body prose prose-blue max-w-none text-base leading-[1.95] prose-headings:tracking-tight prose-a:text-[var(--brand-blue)] prose-pre:bg-slate-950">
-              <ReactMarkdown rehypePlugins={[rehypeRaw, rehypeArticleGallery]} remarkPlugins={[remarkGfm]} urlTransform={(url) => withBasePath(defaultUrlTransform(url))}>
+              <ReactMarkdown rehypePlugins={[rehypeRaw, rehypeArticleGallery]} remarkPlugins={[remarkGfm]} urlTransform={(url) => withBasePath(defaultUrlTransform(url))}
+                components={{
+                  div: ({ node, children, ...props }) => node?.properties?.dataCarousel === "overview" ? (
+                    <div className="not-prose my-8 bg-[var(--brand-blue)] p-4 text-white sm:p-6">
+                      <p className="mb-4 text-lg font-bold">団体概要スライド</p>
+                      <ImageCarousel images={overviewSlides} />
+                    </div>
+                  ) : node?.properties?.dataVideo === "featured" ? (
+                    <div className="not-prose my-8">
+                      <YouTubeEmbed videoId={featuredVideo.videoId} title={featuredVideo.title} />
+                    </div>
+                  ) : <div {...props}>{children}</div>,
+                }}>
                 {post.content}
               </ReactMarkdown>
             </div>
