@@ -16,7 +16,7 @@ export const navItems = [
 export const socialLinks = [
   {
     label: "GitHub",
-    href: "https://github.com/nu-digital/nu_digital",
+    href: "https://github.com/nu-digital",
     type: "github",
   },
   {
