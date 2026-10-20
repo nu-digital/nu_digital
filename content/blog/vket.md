@@ -10,8 +10,6 @@ sourceId: "blog/activity-2026-01-20-9303c5"
 
 <!-- 元URL: https://nu-meta.vercel.app/blog/vket | 取得日: 2026-10-16 -->
 
-![VketWinter出展](/images/imported/img-d51315cc3be267593b1e.webp)
-
 ## VketWinterに出展しました！
 
 ポスターや動画の上映に加えて、制作した3Dモデルの展示を行いました。
@@ -21,11 +19,6 @@ sourceId: "blog/activity-2026-01-20-9303c5"
 
 ぜひチェックしてみてください！
 
-![Booth出品画像](/images/imported/img-d51315cc3be267593b1e.webp)
-
-![VketWinterの記録画像 1](/images/imported/img-81d2e4bfc5bb5c22ad25.webp)
-
-![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
 
 ## 関連リンク
 

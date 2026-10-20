@@ -58,8 +58,6 @@ sourceId: "blog/activity-2026-03-07-beeb42"
 
 ![異分野学会の記録画像 2](/images/imported/img-dac9c413ca0736cfd23e.webp)
 
-![iwa](/images/imported/img-2b7d9890861c767d69d8.webp)
-
 ## 関連する活動・制作物
 
 - [DimensionsGate](/project/dimensions-gate)

@@ -10,8 +10,6 @@ sourceId: "blog/ivrc_dg"
 
 <!-- 元URL: https://nu-meta.vercel.app/blog/ivrc_dg | 取得日: 2026-10-16 -->
 
-![IVRC審査員賞受賞](/images/imported/img-d1a9c7f44335c66fc964.webp)
-
 日本バーチャルリアリティ学会が主催するVR作品の学生コンテスト、IVRC（Interverse Virtual Reality Challenge） 2025 メタバース部門で、私たちが制作した作品『Dimensions Gate』が、
 **せきぐちあいみ賞** と **入江英嗣賞** の２つを受賞させていただきました。
 
@@ -41,8 +39,6 @@ sourceId: "blog/ivrc_dg"
 今回の受賞は、私たちのアイディアや挑戦、試行錯誤が評価された結果だと考えており、チーム一同光栄に思っております。
 
 この機会で得られた経験を糧に、私たちもより多くの方々に驚きと感動を届けられる作品づくりに励んでいきます。
-
-![nu_digital](/images/imported/img-45d416a0ca7d9ae5c220.webp)
 
 ## 関連する活動・制作物
 

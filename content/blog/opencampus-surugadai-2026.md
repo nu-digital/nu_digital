@@ -77,8 +77,6 @@ sourceId: "blog/open-campus-surugadai-2026"
 
 ![オープンキャンパス駿河台 — 展示・ミニ講演の記録画像 10](/images/imported/img-cd6a6fe7274cd4fbc8cf.webp)
 
-![nu_digital](/images/imported/img-45d416a0ca7d9ae5c220.webp)
-
 ## 関連する活動・制作物
 
 - [展示用ゲームランチャー](/project/exhibition-game-launcher)

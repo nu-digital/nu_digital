@@ -8,7 +8,6 @@ excerpt: ""
 sourceId: "works/vrc-airsoft"
 ---
 
-![VRC_Airsoft](/images/imported/img-a4ec9a303fb9a6cf59e9.webp)
 
 ## 関連リンク
 

@@ -50,8 +50,6 @@ FogLandのワールドはこちらからアクセスできます。
 
 ![創作体験会の記録画像 6](/images/imported/img-68d132b42a5c2297a57c.webp)
 
-![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
-
 ## 関連リンク
 
 - [X — 活動・展示レポート](https://x.com/nu_digital_/status/2049487782683594824)

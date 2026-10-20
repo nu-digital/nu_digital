@@ -10,8 +10,6 @@ sourceId: "blog/vketReal"
 
 <!-- 元URL: https://nu-meta.vercel.app/blog/vketReal | 取得日: 2026-10-16 -->
 
-![VketRealに参加しました](/images/imported/img-6125b197b754047e9fec.webp)
-
 VketReal 2025 Summerに行ってきました！
 
 今回のテーマは
@@ -23,12 +21,8 @@ VketReal 2025 Summerに行ってきました！
 
 昔のVR機器の展示があったり、VRChat内でおなじみのあのスイッチが販売されていたりと、見どころが多くてかなり楽しめました。
 
-![Booth出品画像](/images/imported/img-6125b197b754047e9fec.webp)
-
 ![Booth出品画像](/images/imported/img-0fef47777aa2c632377d.webp)
 
 ![Booth出品画像](/images/imported/img-bb81a47e683ee9d1a63b.webp)
 
 ![Booth出品画像](/images/imported/img-28d16e0759e173003199.webp)
-
-![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)

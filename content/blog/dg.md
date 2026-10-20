@@ -10,8 +10,6 @@ sourceId: "blog/dg"
 
 <!-- 元URL: https://nu-meta.vercel.app/blog/dg | 取得日: 2026-10-16 -->
 
-![VRChatワールド『Dimensions Gate』 公開！](/images/imported/img-cd1cc3abbbbf2c814d3e.webp)
-
 メタ創として初めての作品、『Dimensions Gate』をVRChat上にて公開しました！
 本ワールドは、4次元空間をテーマにした探索ワールドです。
 実際に4次元立方体の中を自由に歩き回ることで、3次元に居ながら4次元空間を体験することが出来ます！
@@ -53,8 +51,6 @@ sourceId: "blog/dg"
 ## 埋め込み動画
 
 - [動画](https://www.youtube.com/embed/HHPRAg5ijXE?si=IU1PxKqYRhv2YtTh)
-
-![mizmelon](/images/imported/img-a4ee0844bd5a43259106.webp)
 
 ## 関連する活動・制作物
 

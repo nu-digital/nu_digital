@@ -12,9 +12,7 @@ sourceId: "works/vkasai-booth"
 
 イベントの和風というテーマに合わせながら、ゲームらしい要素を組み合わせた空間を作りました。
 
-当日はLTにも登壇し、1年間の活動・制作の振り返りと、次年度に取り組みたいことを紹介しました。
-
-![V化祭の記録画像 1](/images/imported/img-cc353feed1e3867286c1.webp)
+当日はnu_digitalからyurararaがLTに登壇し、1年間の活動・制作の振り返りと、次年度に取り組みたいことを紹介しました。
 
 ![V化祭の記録画像 2](/images/imported/img-a1866f1c32868ff20fb8.webp)
 

@@ -10,8 +10,6 @@ sourceId: "blog/activity-2026-03-16-9f7d4a"
 
 <!-- 元URL: https://nu-meta.vercel.app/blog/houkoku | 取得日: 2026-10-16 -->
 
-![プロジェクト報告会](/images/imported/img-afe72b725877396e944c.webp)
-
 ありがたいことに、このたび私たちのプロジェクトが大学側から優れたプロジェクトとして認定されました。
 
 そのため報告会に招かれ、3月16日に日本大学の本部がある市ヶ谷まで行ってきました。
@@ -31,16 +29,6 @@ sourceId: "blog/activity-2026-03-16-9f7d4a"
 ![Booth出品画像](/images/imported/img-5518956988f99aa281a4.webp)
 
 ![プロジェクト報告会の記録画像 1](/images/imported/img-c095c5e70d8554513f20.webp)
-
-![プロジェクト報告会の記録画像 2](/images/imported/img-921a71920bed6b6a6e69.webp)
-
-![プロジェクト報告会の記録画像 3](/images/imported/img-d0133958d2d3fcd7b3ea.webp)
-
-![プロジェクト報告会の記録画像 4](/images/imported/img-f00eebfb00c23ba333fc.webp)
-
-![プロジェクト報告会の記録画像 5](/images/imported/img-08090277a9339707833a.webp)
-
-![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
 
 ## 関連リンク
 

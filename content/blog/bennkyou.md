@@ -10,8 +10,6 @@ sourceId: "blog/bennkyou"
 
 <!-- 元URL: https://nu-meta.vercel.app/blog/bennkyou | 取得日: 2026-10-16 -->
 
-![カテゴリ別勉強会2026](/images/imported/img-3eced80be705c46004cc.webp)
-
 団体内ではカテゴリ別の勉強会を開催しています！
 
 現在は**Udon、Unity、Blender、GameEffect、Sound**等のカテゴリに分かれて、実際の制作活動に取り組みつつ、実装法や新しい手法や技術、デザインなどについて話し合っています。
@@ -53,5 +51,3 @@ sourceId: "blog/bennkyou"
 他にも裏では、グラフィックデザインやイベント企画など、いくつかの企画と制作物が同時進行で行われており、頻繁にミーティングが重ねられています。
 
 団体内では実務に近い形で、実際に手を動かして制作活動を行いながら、技術やデザインについて話し合っています。こういった機会を通して、メンバー同士の技術的な交流もより一層深まっているのではないかと思います！
-
-![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)

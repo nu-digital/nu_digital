@@ -10,8 +10,6 @@ sourceId: "blog/newDocument"
 
 <!-- 元URL: https://nu-meta.vercel.app/blog/newDocument | 取得日: 2026-10-16 -->
 
-![ドキュメントを更新しました](/images/imported/img-fdddc2934ed7438eaf14.webp)
-
 ## 部内ドキュメントを更新しました
 
 新しく入ってくるメンバーの方や、既存メンバーが他の分野に取り組むときに迷わず、そして最速で制作の楽しさに触れられるよう、ドキュメントサイトを整理・更新しました。
@@ -47,8 +45,6 @@ sourceId: "blog/newDocument"
 * **ここをもっと分かりやすく改善できる！**
 
 という方がいれば、ぜひ一緒に編集・メンテナンスをしていきましょう！
-
-![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
 
 ## 関連リンク
 

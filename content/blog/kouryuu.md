@@ -10,8 +10,6 @@ sourceId: "blog/activity-2026-01-06-de7115"
 
 <!-- 元URL: https://nu-meta.vercel.app/blog/kouryuu | 取得日: 2026-10-16 -->
 
-![部内交流会を行いました](/images/imported/img-68941e7ebe2f733eb639.webp)
-
 メタ創内で交流会を行いました！
 
 今回はPNGミュージアムをはじめ、気になっていた面白そうなワールドをVRChatで巡りました！
@@ -29,5 +27,3 @@ sourceId: "blog/activity-2026-01-06-de7115"
 ![新年交流会の記録画像 2](/images/imported/img-1ad5f1db415ba98c873f.webp)
 
 ![新年交流会の記録画像 3](/images/imported/img-ee7405b7843d2ad511ee.webp)
-
-![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)

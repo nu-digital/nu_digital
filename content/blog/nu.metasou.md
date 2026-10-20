@@ -10,8 +10,6 @@ sourceId: "blog/nu-metasou"
 
 <!-- 元URL: https://nu-meta.vercel.app/blog/nu.metasou | 取得日: 2026-10-16 -->
 
-![公式ページ開設](/images/imported/img-023c3d365360df5f7d59.webp)
-
 この度、**メタ創公式ホームページ**を開設しました！
 
 このページでは、日々の活動やお知らせ、制作中のプロジェクト、ちょっとした気づきなどをメンバー各自が**ブログ形式**で発信していきます。  
@@ -20,8 +18,6 @@ sourceId: "blog/nu-metasou"
 はじめたばかりでまだまだ未完成なところもありますが、温かく見守っていただけると嬉しいです。
 
 これからもどうぞよろしくお願いします！
-
-![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
 
 ## 関連する活動・制作物
 

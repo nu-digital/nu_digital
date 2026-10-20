@@ -10,8 +10,6 @@ sourceId: "blog/activity-2025-12-01-44d0b8"
 
 <!-- 元URL: https://nu-meta.vercel.app/blog/xr | 取得日: 2026-10-16 -->
 
-![XR会議に参加しました](/images/imported/img-8b642129017437f71aaa.webp)
-
 NUMA枠としてメタ創から3人参加させていただきました。
 XR系の色々な企業の話が聞けたり体験コーナーがあったりを色々見ることができました。
 
@@ -24,5 +22,3 @@ XR系の色々な企業の話が聞けたり体験コーナーがあったりを
 ![XR会議の記録画像 2](/images/imported/img-3be0ba209b3d68719266.webp)
 
 ![XR会議の記録画像 3](/images/imported/img-30cf410f3593c8710cf8.webp)
-
-![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
