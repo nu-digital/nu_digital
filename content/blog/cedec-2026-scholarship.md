@@ -1,5 +1,5 @@
 ---
-title: "CEDEC 2026にスカラーシップ生として参加しました"
+title: "CEDEC 2026 スカラーシップ採択"
 image: "/images/imported/img-3f06d04c2ca3918778cb.webp"
 author: "yurarara"
 date: "2026年7月22日〜24日"

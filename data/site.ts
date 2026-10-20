@@ -100,12 +100,6 @@ export const homeLinks = {
 
 export const featuredProjects = [
   {
-    "title": "学生VR集会 Webサイト",
-    "description": "学生VR集会の紹介・活動写真・参加団体をまとめたWebサイト。",
-    "image": "/images/imported/img-a535007ebd150bc1f148.webp",
-    "link": "/project/student-vr-meetup-website"
-  },
-  {
     "title": "ReCall",
     "description": "記憶と連想から生まれる世界を巡る、物語と空間演出を重視したVR作品です。IVRC 2026メタバース部門で「岸上健人賞」を受賞し、富山のVR学会で展示しました。",
     "image": "/images/imported/img-a537e2d36d5524465939.webp",
