@@ -20,16 +20,10 @@ C#の処理とUnityのウィンドウ設定を組み合わせて実装しまし�
 
 - YouTube — 紹介動画: https://youtu.be/Tc4NYF0OWdw
 
-## 写真（サイト掲載順）
-
-### UChatClient2の記録画像 1
-
 ![UChatClient2の記録画像 1](/images/imported/img-c4f5d90e5d0770628829.webp)
-
-### UChatClient2の記録画像 2
 
 ![UChatClient2の記録画像 2](/images/imported/img-79c56e780038e9e96ae3.webp)
 
-## 収集した関連URL
+## 関連リンク
 
 - [YouTube — 紹介動画](https://youtu.be/Tc4NYF0OWdw)

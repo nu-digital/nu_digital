@@ -22,6 +22,4 @@ sourceId: "blog/new_digital"
 
 今後の活動内容や制作実績についても随時発信していきますので、引き続きご支援・ご声援のほどよろしくお願いいたします。
 
-## 追加の収集画像
-
 ![nu_digital](/images/imported/img-45d416a0ca7d9ae5c220.webp)

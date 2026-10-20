@@ -16,6 +16,4 @@ nu\_digitalでは、ゲーム制作、VRChatワールド制作、3Dモデル、W
 
 制作経験がある人はもちろん、これから学びたい人も歓迎です。詳しくは募集フォームまたは公式Xをご確認ください。
 
-## 追加の収集画像
-
 ![nu_digital](/images/imported/img-45d416a0ca7d9ae5c220.webp)

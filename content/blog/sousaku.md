@@ -38,8 +38,6 @@ FogLandのワールドはこちらからアクセスできます。
 
 ![](/images/imported/img-346dc3559e7af176b3df.webp)
 
-## 追加の収集画像
-
 ![創作体験会の記録画像 1](/images/imported/img-5565d147da7f3ea1ae40.webp)
 
 ![創作体験会の記録画像 2](/images/imported/img-706810c96a0dc8521880.webp)
@@ -54,7 +52,7 @@ FogLandのワールドはこちらからアクセスできます。
 
 ![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
 
-## 収集した関連URL
+## 関連リンク
 
 - [X — 活動・展示レポート](https://x.com/nu_digital_/status/2049487782683594824)
 - [https://vrchat.com/home/world/wrld_83eb91f2-aaf8-4576-88eb-5e6f09103da7/info](https://vrchat.com/home/world/wrld_83eb91f2-aaf8-4576-88eb-5e6f09103da7/info)

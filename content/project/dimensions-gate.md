@@ -37,81 +37,41 @@ ObjectSyncを応用してプレイヤー位置を同期し、ゲートを通る�
 - IVRC — 公式掲載ページ: https://ivrc.net/2025_metaverse/leap-stage/
 - YouTube — 紹介動画: https://www.youtube.com/watch?v=lfjW_w0gHZc
 
-## 写真（サイト掲載順）
-
-### DimensionsGateの記録画像 1
-
 ![DimensionsGateの記録画像 1](/images/imported/img-d87b835824bd8761ef15.webp)
-
-### DimensionsGateの記録画像 2
 
 ![DimensionsGateの記録画像 2](/images/imported/img-227cbf9c21aec7320af4.webp)
 
-### DimensionsGateの記録画像 3
-
 ![DimensionsGateの記録画像 3](/images/imported/img-048e785af9a7b30d9927.webp)
-
-### DimensionsGateの記録画像 4
 
 ![DimensionsGateの記録画像 4](/images/imported/img-b73288e8957dff1a7f96.webp)
 
-### DimensionsGateの記録画像 5
-
 ![DimensionsGateの記録画像 5](/images/imported/img-34f338795aeac2c28fef.webp)
-
-### DimensionsGateの記録画像 6
 
 ![DimensionsGateの記録画像 6](/images/imported/img-82fbfd0097b4a3814cd3.webp)
 
-### DimensionsGateの記録画像 7
-
 ![DimensionsGateの記録画像 7](/images/imported/img-91bb4ac0604cdb8a9f11.webp)
-
-### DimensionsGateの記録画像 8
 
 ![DimensionsGateの記録画像 8](/images/imported/img-023060ca01160eae4c33.webp)
 
-### DimensionsGateの記録画像 9
-
 ![DimensionsGateの記録画像 9](/images/imported/img-c766ab7345ec3f8f871e.webp)
-
-### DimensionsGateの記録画像 10
 
 ![DimensionsGateの記録画像 10](/images/imported/img-87f04b94e84bedee6ba2.webp)
 
-### DimensionsGateの記録画像 11
-
 ![DimensionsGateの記録画像 11](/images/imported/img-e11e46a61cd1061e5ce3.webp)
-
-### DimensionsGateの記録画像 12
 
 ![DimensionsGateの記録画像 12](/images/imported/img-33a744e94cf2edf9ac9a.webp)
 
-### DimensionsGateの記録画像 13
-
 ![DimensionsGateの記録画像 13](/images/imported/img-0215fbf4896c9d500dce.webp)
-
-### DimensionsGateの記録画像 14
 
 ![DimensionsGateの記録画像 14](/images/imported/img-96329415d22523b4194b.webp)
 
-### DimensionsGateの記録画像 15
-
 ![DimensionsGateの記録画像 15](/images/imported/img-27befb2012d9038d9065.webp)
-
-### DimensionsGateの記録画像 16
 
 ![DimensionsGateの記録画像 16](/images/imported/img-6946e98d3c1618039ef2.webp)
 
-### DimensionsGateの記録画像 17
-
 ![DimensionsGateの記録画像 17](/images/imported/img-258db8ca77184e2929c0.webp)
 
-### DimensionsGateの記録画像 18
-
 ![DimensionsGateの記録画像 18](/images/imported/img-bac3ba87876585c8507f.webp)
-
-## 追加の収集画像
 
 ![DimensionsGate](/images/imported/img-f9fae08065a2007d1b92.webp)
 
@@ -122,7 +82,7 @@ ObjectSyncを応用してプレイヤー位置を同期し、ゲートを通る�
 - [異分野学会](/blog/ibunya)
 - [サイエンスアゴラに参加](/blog/science)
 
-## 収集した関連URL
+## 関連リンク
 
 - [VRChat — ワールド / 体験ページ](https://vrchat.com/home/launch?worldId=wrld_d84a41e8-fd6a-4167-bc90-637af6fc3c41)
 - [www.cst.nihon-u.ac.jp](https://www.cst.nihon-u.ac.jp/news/20260111_2187/)

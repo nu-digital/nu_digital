@@ -2,20 +2,18 @@
 title: "くいっく！"
 image: "/images/imported/img-24fe82b3628db7e590f4.webp"
 author: "nu_digital"
-date: ""
+date: "2026-07-20"
 category: "Product"
 excerpt: ""
 sourceId: "works/quick"
 ---
 
-VRCWorld/memo.txtに記載された制作コンテンツ候補。
-
-作品説明・制作者・制作時期は未記載です。
-
-## 追加の収集画像
-
 ![くいっく！](/images/imported/img-24fe82b3628db7e590f4.webp)
 
-## 収集した関連URL
+## 関連リンク
 
-- [VRCWorldメモ記載URL](https://vrchat.com/home/world/wrld_2b770a84-2da1-4188-bed4-3d4c2471c160/info)
+- [VRChatでワールドを見る](https://vrchat.com/home/world/wrld_2b770a84-2da1-4188-bed4-3d4c2471c160/info)
+
+## 関連記事
+
+- [第1回 ワールド制作ハッカソンを開催しました](/blog/activity-2026-07-20-8c34f0)

@@ -26,8 +26,6 @@ Vket巡りやゲームワールドなど、メタバースを満喫！これだ�
 
 ![Booth出品画像](/images/imported/img-fdc91d24e508287591de.webp)
 
-## 追加の収集画像
-
 ![YUVR,KAIT,nu交流会の記録画像 1](/images/imported/img-1098f1aa4e04491aacc9.webp)
 
 ![YUVR,KAIT,nu交流会の記録画像 2](/images/imported/img-6db2f971401e28b04596.webp)

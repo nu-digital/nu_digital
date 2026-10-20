@@ -32,8 +32,6 @@ sourceId: "blog/science"
 
 ![Booth出品画像](/images/imported/img-819bc86fee3fee9ed17a.webp)
 
-## 追加の収集画像
-
 ![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
 
 ## 関連する活動・制作物

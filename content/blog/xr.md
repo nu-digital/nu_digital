@@ -19,8 +19,6 @@ XR系の色々な企業の話が聞けたり体験コーナーがあったりを
 
 ![Booth出品画像](/images/imported/img-9b50ad331c67f9a37dbf.webp)
 
-## 追加の収集画像
-
 ![XR会議の記録画像 1](/images/imported/img-45922bf5628574941b80.webp)
 
 ![XR会議の記録画像 2](/images/imported/img-3be0ba209b3d68719266.webp)

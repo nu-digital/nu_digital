@@ -48,10 +48,8 @@ sourceId: "blog/newDocument"
 
 という方がいれば、ぜひ一緒に編集・メンテナンスをしていきましょう！
 
-## 追加の収集画像
-
 ![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
 
-## 収集した関連URL
+## 関連リンク
 
 - [部内ドキュメントはこちらから](https://yurarara23.github.io/NewDocs/)

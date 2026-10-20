@@ -24,10 +24,8 @@ sourceId: "works/uchatclient-1"
 
 - YouTube — 紹介動画: https://youtu.be/806NEf7NaA4
 
-## 写真（サイト掲載順）
-
 掲載写真なし。
 
-## 収集した関連URL
+## 関連リンク
 
 - [YouTube — 紹介動画](https://youtu.be/806NEf7NaA4)

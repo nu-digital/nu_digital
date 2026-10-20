@@ -26,8 +26,6 @@ NUMA（全日本大学メタバース連盟）主催の合同講習会に、当�
 
 ![](/images/imported/img-2113afd68d7688f5c1a0.webp)
 
-## 追加の収集画像
-
 ![NUMA合同講習会 — VRChatワールド制作講師の記録画像 1](/images/imported/img-76c9601e4419bd380e58.webp)
 
 ![NUMA合同講習会 — VRChatワールド制作講師の記録画像 2](/images/imported/img-52468c6789d3d470899e.webp)

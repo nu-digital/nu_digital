@@ -24,8 +24,6 @@ sourceId: "blog/activity-2026-01-06-de7115"
 
 ![Booth出品画像](/images/imported/img-ed13a216470aaa64d97d.webp)
 
-## 追加の収集画像
-
 ![新年交流会の記録画像 1](/images/imported/img-0f3311d4b197dc26b23b.webp)
 
 ![新年交流会の記録画像 2](/images/imported/img-1ad5f1db415ba98c873f.webp)

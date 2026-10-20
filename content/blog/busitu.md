@@ -70,14 +70,12 @@ VRChatのワールド制作は、作った3Dモデルやシステムをすぐに
 
 [部室ワールドはこちらから！](https://vrchat.com/home/world/wrld_560b9015-2293-4530-b97f-130125d37ccc/info)
 
-## 追加の収集画像
-
 ![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
 
 ## 関連する活動・制作物
 
 - [nu_room](/project/nu-room)
 
-## 収集した関連URL
+## 関連リンク
 
 - [部室ワールドはこちらから！](https://vrchat.com/home/world/wrld_560b9015-2293-4530-b97f-130125d37ccc/info)

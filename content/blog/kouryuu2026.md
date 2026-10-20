@@ -38,6 +38,4 @@ sourceId: "blog/kouryuu2026"
 
 ![member_s](/images/imported/img-2572ba64f9bcbae41e29.webp)
 
-## 追加の収集画像
-
 ![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)

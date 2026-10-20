@@ -1,25 +1,30 @@
 ---
-title: "ホームページをリニューアルしました"
-image: "/images/imported/img-819bc86fee3fee9ed17a.webp"
-author: "yurarara"
-date: "2026-07-10"
-category: "Blog"
-excerpt: "nu_digitalのホームページをリニューアルしました。"
-sourceId: "news/site-redesign"
+title: ホームページをリニューアルしました
+image: /images/logo.webp
+author: yurarara
+date: '2026-10-20'
+category: Blog
+excerpt: トップページとブログの表示を変更し、団体概要・制作物一覧とローカル記事エディターを追加しました。配信先もGitHub Pagesへ移行しました。
+sourceId: news/site-redesign
 ---
+nu_digitalのホームページをリニューアルしました。団体紹介や制作物を確認しやすいよう、ページ構成と記事の表示を変更しました。
 
-<!-- 元URL: https://nu-meta.vercel.app/news/site-redesign | 取得日: 2026-10-16 -->
+## トップページ・ブログの変更
 
-![ホームページをリニューアルしました](/images/imported/img-819bc86fee3fee9ed17a.webp)
+トップページに団体概要と制作物一覧を追加しました。活動内容の紹介から、各作品の詳細記事へアクセスできる構成にしています。
 
-nu\_digitalのホームページをリニューアルしました。
+ブログ画面も変更し、活動報告や制作物の記事を整理しました。
 
-元々使用していた既存のベースがありましたが、Codexに手伝ってもらいながら、かなり効率よく整理と改修を進めることができました。
+## 記事編集環境の追加
 
-今回の更新では、ホームページ全体の構成を見直し、ニュースとブログをMarkdownで分けて投稿できるようにしました。
+ローカル環境で記事を編集できる記事エディターを追加しました。記事の作成・更新に使用します。
 
-今後は、お知らせや更新情報はニュースへ、活動報告や制作メモはブログへ、という形で整理していく予定です。
+## 配信先の変更
 
-## 追加の収集画像
+サイトの配信先をVercelからGitHub Pagesへ移行しました。
 
-![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
+## 関連リンク
+
+- [トップページ](/)
+- [ブログ一覧](/blog)
+- [団体ホームページの制作記事](/project/organization-website)

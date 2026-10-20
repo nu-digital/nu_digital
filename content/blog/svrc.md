@@ -22,8 +22,6 @@ NUMA（全日本メタバース連盟）の企画により、**SVRC（慶應SFCV
 
 ![Booth出品画像](/images/imported/img-9f94a5a7b77c2e4bb644.webp)
 
-## 追加の収集画像
-
 ![SVRCサークル対談の記録画像 1](/images/imported/img-3629b49d02238b1faa02.webp)
 
 ![SVRCサークル対談の記録画像 2](/images/imported/img-224e3a42f61ef9df64e9.webp)

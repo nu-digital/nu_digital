@@ -28,28 +28,20 @@ NPC、敵、ボス、魔法、UIを機能ごとに分けて実装しました。
 
 - VRChat — ワールド / 体験ページ: https://vrchat.com/home/launch?worldId=wrld_83eb91f2-aaf8-4576-88eb-5e6f09103da7
 
-## 写真（サイト掲載順）
-
-### FogLand αの記録画像 1
-
 ![FogLand αの記録画像 1](/images/imported/img-dab62a7faba773d14fba.webp)
-
-### FogLand αの記録画像 2
 
 ![FogLand αの記録画像 2](/images/imported/img-f212349915679794078f.webp)
 
-### FogLand αの記録画像 3
-
 ![FogLand αの記録画像 3](/images/imported/img-d47c32669397e9d46632.webp)
-
-### FogLand αの記録画像 4
 
 ![FogLand αの記録画像 4](/images/imported/img-33e555cdaac5c82084d4.webp)
 
-### FogLand αの記録画像 5
-
 ![FogLand αの記録画像 5](/images/imported/img-1b7b201d8689cbba8393.webp)
 
-## 収集した関連URL
+## 関連リンク
 
 - [VRChat — ワールド / 体験ページ](https://vrchat.com/home/launch?worldId=wrld_83eb91f2-aaf8-4576-88eb-5e6f09103da7)
+
+## 関連記事
+
+- [創作体験会](/blog/sousaku)

@@ -26,10 +26,8 @@ IVRCに出展した際に制作した4次元説明ギミックなどを**すべ�
 
 [メタ創 公式Boothはこちら](https://numetaproject.booth.pm/)
 
-## 追加の収集画像
-
 ![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
 
-## 収集した関連URL
+## 関連リンク
 
 - [メタ創 公式Boothはこちら](https://numetaproject.booth.pm/)

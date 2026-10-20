@@ -16,12 +16,6 @@ sourceId: "works/recruitment-poster"
 
 他学部の学生にも活動を知ってもらえるよう、目に留まるデザインを考えました。
 
-## 写真（サイト掲載順）
-
-### ポスター制作の記録画像 1
-
 ![ポスター制作の記録画像 1](/images/imported/img-56598ce58df08757456e.webp)
-
-### ポスター制作の記録画像 2
 
 ![ポスター制作の記録画像 2](/images/imported/img-e2051a5ea886021afa69.webp)

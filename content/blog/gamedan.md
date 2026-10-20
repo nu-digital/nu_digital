@@ -24,6 +24,4 @@ sourceId: "blog/gamedan"
 
 ![Booth出品画像](/images/imported/img-8834811b67b6ed7de031.webp)
 
-## 追加の収集画像
-
 ![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)

@@ -42,8 +42,6 @@ sourceId: "blog/ivrc_dg"
 
 この機会で得られた経験を糧に、私たちもより多くの方々に驚きと感動を届けられる作品づくりに励んでいきます。
 
-## 追加の収集画像
-
 ![nu_digital](/images/imported/img-45d416a0ca7d9ae5c220.webp)
 
 ## 関連する活動・制作物

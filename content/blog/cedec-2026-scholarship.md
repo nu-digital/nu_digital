@@ -1,47 +1,26 @@
 ---
-title: "CEDEC 2026 スカラーシップ参加"
+title: "CEDEC 2026にスカラーシップ生として参加しました"
 image: "/images/imported/img-3f06d04c2ca3918778cb.webp"
 author: "yurarara"
 date: "2026年7月22日〜24日"
 category: "Blog"
-excerpt: "IGDA日本のスカラーシップ生としてCEDEC 2026に参加しました。"
+excerpt: "nu_digitalから1名がIGDA日本のスカラーシップ生としてCEDEC 2026に参加。講演や展示、開発者との交流を通じて、ゲーム制作を支える技術と開発環境について学びました。"
 sourceId: "blog/cedec-2026-scholarship"
 ---
+2026年7月22日〜24日にパシフィコ横浜ノースで開催されたCEDEC 2026に、nu_digitalから1名がIGDA日本のスカラーシップ生として参加しました。
 
-## 概要
+会期中はセッションの聴講、企業展示の見学、開発者や他のスカラーシップ生との交流を行いました。
 
-IGDA日本のスカラーシップ生としてCEDEC 2026に参加しました。
+## 講演の聴講
 
-## 本文
+バトルシステムの設計・運用、AIなどに関する講演等様々なセッションを聴講しました。
 
-講演の聴講、企業展示の見学、開発者や他のスカラーシップ生との交流を通じ、ゲーム制作の現場に触れました。
+![マルチモーダル検索の仕組みを紹介する講演スライド](/images/imported/img-6a285197a050032b6a5f.webp)
 
-## 関連URL
+![ポケモンのバトルシステムの基盤設計と運用事例を紹介する講演](/images/imported/img-b02115e1e2bbba90e5d9.webp)
 
-- igda.jp: https://igda.jp/2026/08/03/16875/
+![AIとゲーム空間・実空間の関係を取り上げた講演スライド](/images/imported/img-18cefdfad84d3b239a76.webp)
 
-## 写真（サイト掲載順）
+## 関連リンク
 
-### CEDEC 2026 スカラーシップ参加の記録画像 1
-
-![CEDEC 2026 スカラーシップ参加の記録画像 1](/images/imported/img-3f06d04c2ca3918778cb.webp)
-
-### CEDEC 2026 スカラーシップ参加の記録画像 2
-
-![CEDEC 2026 スカラーシップ参加の記録画像 2](/images/imported/img-6a285197a050032b6a5f.webp)
-
-### CEDEC 2026 スカラーシップ参加の記録画像 3
-
-![CEDEC 2026 スカラーシップ参加の記録画像 3](/images/imported/img-b02115e1e2bbba90e5d9.webp)
-
-### CEDEC 2026 スカラーシップ参加の記録画像 4
-
-![CEDEC 2026 スカラーシップ参加の記録画像 4](/images/imported/img-e0b8b936a1c3d8ef3204.webp)
-
-### CEDEC 2026 スカラーシップ参加の記録画像 5
-
-![CEDEC 2026 スカラーシップ参加の記録画像 5](/images/imported/img-18cefdfad84d3b239a76.webp)
-
-## 収集した関連URL
-
-- [igda.jp](https://igda.jp/2026/08/03/16875/)
+- [IGDA日本：CEDEC 2026 スカラーシップ体験レポート](https://igda.jp/2026/08/03/16875/)

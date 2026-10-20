@@ -21,8 +21,6 @@ sourceId: "blog/nu-metasou"
 
 これからもどうぞよろしくお願いします！
 
-## 追加の収集画像
-
 ![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
 
 ## 関連する活動・制作物

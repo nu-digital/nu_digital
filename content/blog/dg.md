@@ -54,15 +54,13 @@ sourceId: "blog/dg"
 
 - [動画](https://www.youtube.com/embed/HHPRAg5ijXE?si=IU1PxKqYRhv2YtTh)
 
-## 追加の収集画像
-
 ![mizmelon](/images/imported/img-a4ee0844bd5a43259106.webp)
 
 ## 関連する活動・制作物
 
 - [DimensionsGate](/project/dimensions-gate)
 
-## 収集した関連URL
+## 関連リンク
 
 - [VRChatへのリンクはこちら](https://vrchat.com/home/world/wrld_d84a41e8-fd6a-4167-bc90-637af6fc3c41)
 - [埋め込み動画](https://www.youtube.com/embed/HHPRAg5ijXE?si=IU1PxKqYRhv2YtTh)

@@ -30,8 +30,6 @@ sourceId: "blog/activity-2026-03-16-9f7d4a"
 
 ![Booth出品画像](/images/imported/img-5518956988f99aa281a4.webp)
 
-## 追加の収集画像
-
 ![プロジェクト報告会の記録画像 1](/images/imported/img-c095c5e70d8554513f20.webp)
 
 ![プロジェクト報告会の記録画像 2](/images/imported/img-921a71920bed6b6a6e69.webp)
@@ -44,6 +42,6 @@ sourceId: "blog/activity-2026-03-16-9f7d4a"
 
 ![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)
 
-## 収集した関連URL
+## 関連リンク
 
 - [www.nihon-u.ac.jp](https://www.nihon-u.ac.jp/about/students_first/cooperation/)

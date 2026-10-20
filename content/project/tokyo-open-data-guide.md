@@ -27,45 +27,25 @@ AI側から会話を始め、数回のやり取りから利用者の特徴や好
 - odhackathon.metro.tokyo.lg.jp: https://odhackathon.metro.tokyo.lg.jp/collection/51/?year=2025
 - YouTube — 紹介動画: https://youtu.be/LcE7nU6m4ZQ
 
-## 写真（サイト掲載順）
-
-### AIキャラクター対話システムの記録画像 1
-
 ![AIキャラクター対話システムの記録画像 1](/images/imported/img-d8cf7934e2b2b2bddd37.webp)
-
-### AIキャラクター対話システムの記録画像 2
 
 ![AIキャラクター対話システムの記録画像 2](/images/imported/img-7d6720e48f1371cf2db1.webp)
 
-### AIキャラクター対話システムの記録画像 3
-
 ![AIキャラクター対話システムの記録画像 3](/images/imported/img-e4d70f58ad92c9f8eaf4.webp)
-
-### AIキャラクター対話システムの記録画像 4
 
 ![AIキャラクター対話システムの記録画像 4](/images/imported/img-4da7195b4b3efe138ee5.webp)
 
-### AIキャラクター対話システムの記録画像 5
-
 ![AIキャラクター対話システムの記録画像 5](/images/imported/img-e700e718459b43b9d39b.webp)
-
-### AIキャラクター対話システムの記録画像 6
 
 ![AIキャラクター対話システムの記録画像 6](/images/imported/img-abb753ece462fe67c83e.webp)
 
-### AIキャラクター対話システムの記録画像 7
-
 ![AIキャラクター対話システムの記録画像 7](/images/imported/img-c49e8d58ac38877bf283.webp)
-
-### AIキャラクター対話システムの記録画像 8
 
 ![AIキャラクター対話システムの記録画像 8](/images/imported/img-c76f6e4b58fcf757eddd.webp)
 
-### AIキャラクター対話システムの記録画像 9
-
 ![AIキャラクター対話システムの記録画像 9](/images/imported/img-8cb68bd2c3965875168f.webp)
 
-## 収集した関連URL
+## 関連リンク
 
 - [odhackathon.metro.tokyo.lg.jp](https://odhackathon.metro.tokyo.lg.jp/collection/51/?year=2025)
 - [YouTube — 紹介動画](https://youtu.be/LcE7nU6m4ZQ)

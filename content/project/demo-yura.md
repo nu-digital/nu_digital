@@ -2,16 +2,16 @@
 title: "demo_yura"
 image: "/images/ogp/member.webp"
 author: "nu_digital"
-date: ""
+date: "2026-07-20"
 category: "Product"
 excerpt: ""
 sourceId: "works/demo-yura"
 ---
 
-VRCWorld/memo.txtに記載された制作コンテンツ候補。
+## 関連リンク
 
-作品説明・制作者・制作時期は未記載です。
+- [VRChatでワールドを見る](https://vrchat.com/home/launch?worldId=wrld_cc7d0424-fd8a-41be-851e-bdd3fae2a813)
 
-## 収集した関連URL
+## 関連記事
 
-- [VRCWorldメモ記載URL](https://vrchat.com/home/launch?worldId=wrld_cc7d0424-fd8a-41be-851e-bdd3fae2a813)
+- [第1回 ワールド制作ハッカソンを開催しました](/blog/activity-2026-07-20-8c34f0)

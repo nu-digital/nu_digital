@@ -54,8 +54,6 @@ sourceId: "blog/activity-2026-03-07-beeb42"
 
 以上が超異分野学会への参加報告ブログなります。読んでいただきありがとうございました！
 
-## 追加の収集画像
-
 ![異分野学会の記録画像 1](/images/imported/img-5de34fe2774e89f17c64.webp)
 
 ![異分野学会の記録画像 2](/images/imported/img-dac9c413ca0736cfd23e.webp)

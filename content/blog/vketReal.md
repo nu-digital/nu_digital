@@ -31,6 +31,4 @@ VketReal 2025 Summerに行ってきました！
 
 ![Booth出品画像](/images/imported/img-28d16e0759e173003199.webp)
 
-## 追加の収集画像
-
 ![yurarara](/images/imported/img-17e875a51d1f648d2574.webp)

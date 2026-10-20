@@ -23,22 +23,18 @@ sourceId: "works/organization-website"
 - nu-meta.vercel.app: https://nu-meta.vercel.app/
 - X — 活動・展示レポート: https://x.com/nu_digital_
 
-## 写真（サイト掲載順）
-
-### ホームページ制作の記録画像 1
-
 ![ホームページ制作の記録画像 1](/images/imported/img-d3b57e95dc2f5380d97f.webp)
-
-### ホームページ制作の記録画像 2
 
 ![ホームページ制作の記録画像 2](/images/imported/img-edbc435f0e4e7fdf1d50.webp)
 
 ## 関連する活動・制作物
 
+- [ホームページをリニューアルしました](/news/site-redesign)
+
 - [公式ページ開設](/blog/nu.metasou)
 - [メタ創専用CMSができました](/blog/metacms_article)
 
-## 収集した関連URL
+## 関連リンク
 
 - [nu-meta.vercel.app](https://nu-meta.vercel.app/)
 - [X — 活動・展示レポート](https://x.com/nu_digital_)

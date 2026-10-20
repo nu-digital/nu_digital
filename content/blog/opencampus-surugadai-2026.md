@@ -57,8 +57,6 @@ sourceId: "blog/open-campus-surugadai-2026"
 
  ![](/images/imported/img-96e19ec8d17c8093579a.webp)
 
-## 追加の収集画像
-
 ![オープンキャンパス駿河台 — 展示・ミニ講演の記録画像 1](/images/imported/img-bf76cdcf5bd6cae56382.webp)
 
 ![オープンキャンパス駿河台 — 展示・ミニ講演の記録画像 2](/images/imported/img-2a10925f1c7e87249876.webp)
@@ -85,7 +83,7 @@ sourceId: "blog/open-campus-surugadai-2026"
 
 - [展示用ゲームランチャー](/project/exhibition-game-launcher)
 
-## 収集した関連URL
+## 関連リンク
 
 - [X — 活動・展示レポート](https://x.com/nu_digital_/status/2068512095369630195)
 - [YouTube — 展示システム（本人制作）](https://youtu.be/7bGKbCKwzOo)

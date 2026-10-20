@@ -114,7 +114,7 @@ export const featuredProjects = [
   {
     "title": "LBE Restaurant Simulator",
     "description": "現実の空間を歩きながら、複数人で料理を作って客へ運ぶレストランシミュレーターです。",
-    "image": "/images/imported/img-6a5153913b3027a25ebe.webp",
+    "image": "/images/imported/img-e37ddca45b9f20ebbc20.webp",
     "link": "/project/lbe-restaurant-simulator"
   }
 ];
