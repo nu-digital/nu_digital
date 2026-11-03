@@ -69,8 +69,8 @@ export const homeCopy = {
 export const homeLinks = {
   about: [
     {
-      href: "/news/recruit-2026",
-      label: "募集について",
+      href: "https://docs.google.com/forms/d/e/1FAIpQLScv-c32VRJBR--sNuh_R4kUi2UC1yaNPJeR2BgyOiRQN7lnyA/viewform?usp=dialog",
+      label: "メンバー募集について",
     },
     {
       href: "https://numetaproject.booth.pm/",
